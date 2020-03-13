@@ -26,3 +26,4 @@
 // add test dev fix-3
 
 // add Main Content
+// content render
